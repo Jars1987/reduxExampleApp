@@ -1,6 +1,6 @@
 # Coaching Call Redux and React-Redux
 
-## Topics for todays
+## Topics for today
 
 - What is Redux?
 - How does Redux works?
