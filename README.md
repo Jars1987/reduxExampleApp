@@ -41,7 +41,7 @@ Source: [logrocket]
 
 ## Add a Joke Feature - Assynchronous Calls in Redux
 
-![Redux Thunk](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40andrewrymaruk%2Fthunk-in-redux-360fe8ae8b5a&psig=AOvVaw0va8Lo3kRhispsUCDQENsr&ust=1641658837038000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCr5_2FoPUCFQAAAAAdAAAAABAD)
+![Redux Thunk](https://miro.medium.com/max/1400/0*Q4lgrUkqEFvvoUzZ)
 
 Redux Thunk behind the scenes notices that a functions is being called from the
 action creator
@@ -54,7 +54,7 @@ state in loading state, and another to update our store with the returned data.
 Source: [medium]
 (https://medium.com/@ingridf/what-redux-thunk-is-how-to-install-it-and-how-it-works-b67b815d2672)
 
-![redux Thunk 2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ingridf%2Fwhat-redux-thunk-is-how-to-install-it-and-how-it-works-b67b815d2672&psig=AOvVaw0va8Lo3kRhispsUCDQENsr&ust=1641658837038000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCr5_2FoPUCFQAAAAAdAAAAABAT)
+![redux Thunk 2](https://miro.medium.com/max/1400/0*l66us_4-3WiL6af9.png)
 
 ## Toolkit Time - Refactor/Redux with Toolkit
 
